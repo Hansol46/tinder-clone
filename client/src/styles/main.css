@@ -1,0 +1,31 @@
+.wrapper {
+    width: 70%;
+    margin: 0 auto;
+}
+.material-icons {
+    padding: 20px;
+}
+.swipe {
+    position: absolute;
+}
+.account, .forum, .replay, .close, .star, .favorite, .flash {
+    font-size: 30px;
+}
+
+
+/*  SWIPE BUTTONS */
+.replay {
+    color: #f5b748 ;
+}
+.close {
+    color: #ec5e6f;
+}
+.star {
+    color: #62b4f9;
+}
+.favorite{
+    color: #76e2b3;
+}
+.flash {
+    color: #915dd1;
+}
